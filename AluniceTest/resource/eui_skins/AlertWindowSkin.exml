@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AlertWindowSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="720" height="1280" x="0" y="0">
+		<e:Group width="450" height="300" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0">
+			<e:Image id="contendBg_" source="border_png" scale9Grid="2,2,12,12" scaleX="1" scaleY="1" left="0" right="0" top="0" bottom="0"/>
+			<e:Group id="titleGtoup_" top="0" scaleX="1" scaleY="1" left="0" right="0" bottom="255">
+			<e:Image id="titleBg_" left="0" right="0" bottom="0" top="0" source="header_png"/>
+			<e:Label id="alertTitle_" text="title" size="30" horizontalCenter="3.5" verticalCenter="2.5"/>
+			</e:Group>
+			<e:Group id="plantGroup_" width="0" height="0" scaleX="1" scaleY="1" left="0" top="50">
+			<e:Image id="plantImg_" width="210" height="103" scaleX="1" scaleY="1" source="strawberry_5_png" left="10" top="50"/>
+			<e:Label id="healthTitle_" text="HEALTH:" y="50" scaleX="1" scaleY="1" textColor="0x000000" size="20" right="-298" horizontalCenter="256.5"/>
+			<e:Label id="healthNum_" text="90/100" y="50" scaleX="1" scaleY="1" textColor="0x000000" size="20" left="310" horizontalCenter="341"/>
+			<e:Label id="nextTimeTitle_" text="下一阶段:" y="90" scaleX="1" scaleY="1" textColor="0x000000" size="20" right="-301" horizontalCenter="258"/>
+			<e:Label id="NextCountLeftTime_" text="00:00:00" y="90" scaleX="1" scaleY="1" textColor="0x000000" size="20" left="310" horizontalCenter="349"/>
+			<e:Label id="leftTimeTitle_" text="left_time:" y="130" scaleX="1" scaleY="1" textColor="0x000000" size="20" horizontalCenter="256" right="-297"/>
+			<e:Label id="leftTime_" text="00:00:00" y="130" scaleX="1" scaleY="1" textColor="0x000000" size="20" left="310" horizontalCenter="349"/>
+			</e:Group>
+			<e:Group id="shopGroup_" width="0" height="0" x="0" y="50" scaleX="1" scaleY="1" visible="false"/>
+			<e:Group id="groundGroup_" width="0" height="0" left="0" top="50" visible="false">
+				<e:Scroller id="scroller_" width="400" height="150" x="25" y="18" scaleX="1" scaleY="1">
+					<e:DataGroup id="plantChooseGroup_">
+						<e:layout>
+							<e:HorizontalLayout gap="10" horizontalAlign="center" verticalAlign="middle"/>
+						</e:layout>
+					</e:DataGroup>
+				</e:Scroller>
+			</e:Group>
+			<e:Button id="closeBtn_" label="Close" y="230" height="45" width="90" skinName="skins.ButtonSkin" x="300" scaleX="1" scaleY="1"/>
+			<e:Button id="funcBtn_" label="Func" y="230" height="45" width="90" skinName="skins.ButtonSkin" horizontalCenter="-110" x="80" scaleX="1" scaleY="1"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

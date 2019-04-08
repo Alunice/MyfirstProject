@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="plantItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="90" x="0" y="0" scaleX="1" scaleY="1" height="90">
+		<e:Image id="seedImg_" width="90" height="90" x="0" y="0" source="whiteRadish_seed_png"/>
+		<e:Image id="select_" width="52" height="50" x="20" y="40" source="select_png"/>
+		<e:Label id="seed_num" text="10" size="20" textColor="0x0250f9" right="7" top="5"/>
+	</e:Group>
+</e:Skin>

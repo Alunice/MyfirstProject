@@ -1,0 +1,24 @@
+var Alun;
+(function (Alun) {
+    var LOGIN_STATUS;
+    (function (LOGIN_STATUS) {
+        LOGIN_STATUS[LOGIN_STATUS["SUCCESS"] = 1] = "SUCCESS";
+        LOGIN_STATUS[LOGIN_STATUS["USER_NOT_EXIST"] = 2] = "USER_NOT_EXIST";
+        LOGIN_STATUS[LOGIN_STATUS["PSW_ERROR"] = 3] = "PSW_ERROR";
+    })(LOGIN_STATUS = Alun.LOGIN_STATUS || (Alun.LOGIN_STATUS = {}));
+    var GROUND_STATE;
+    (function (GROUND_STATE) {
+        GROUND_STATE[GROUND_STATE["NORMAL"] = 1] = "NORMAL";
+        GROUND_STATE[GROUND_STATE["DROUGHT"] = 2] = "DROUGHT";
+        GROUND_STATE[GROUND_STATE["DEEP_DROUGHT"] = 3] = "DEEP_DROUGHT";
+        GROUND_STATE[GROUND_STATE["BLACK"] = 4] = "BLACK";
+        GROUND_STATE[GROUND_STATE["GRASS"] = 5] = "GRASS";
+    })(GROUND_STATE = Alun.GROUND_STATE || (Alun.GROUND_STATE = {}));
+    var ALERT_TYPE;
+    (function (ALERT_TYPE) {
+        ALERT_TYPE[ALERT_TYPE["PLANT_INFO"] = 1] = "PLANT_INFO";
+        ALERT_TYPE[ALERT_TYPE["SHOP_INFO"] = 2] = "SHOP_INFO";
+        ALERT_TYPE[ALERT_TYPE["GROUND_INFO"] = 3] = "GROUND_INFO";
+    })(ALERT_TYPE = Alun.ALERT_TYPE || (Alun.ALERT_TYPE = {}));
+})(Alun || (Alun = {}));
+//# sourceMappingURL=enum.js.map

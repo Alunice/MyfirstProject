@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Group height="1280" y="0" width="720" x="0">
+		<e:Group id="touchLayer_" width="720" height="1280" x="0" y="0"/>
+		<e:Group id="farmGroup_" width="0" height="0" x="105" y="660" scaleX="1" scaleY="1">
+			<e:Image id="bg" width="1280" height="1280" x="-105" source="mainFram_bg_1_png" y="-660" scaleX="1" scaleY="1"/>
+			<e:Group id="goundGroup" width="0" height="0" x="0" y="0">
+			<e:Image id="g_1" width="201" height="103" x="-16" y="16.5" scaleX="1" scaleY="1" source="drought_png"/>
+			<e:Image id="g_2" width="201" height="103" x="90" y="-38" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_3" width="201" height="103" x="190.5" y="-89.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_4" width="201" height="103" x="90" y="74.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_5" width="201" height="103" x="196" y="19" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_6" width="201" height="103" x="303.5" y="-35.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_7" width="201" height="103" x="205" y="131.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_8" width="201" height="103" x="311" y="77" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_9" width="201" height="103" x="417.5" y="19.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_10" width="201" height="103" x="319" y="190.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_11" width="201" height="103" x="427" y="134" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_12" width="201" height="103" x="533.5" y="76.5" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_13" width="201" height="103" x="438" y="250" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_14" width="201" height="103" x="548" y="193" source="normal_png" scaleX="1" scaleY="1"/>
+			<e:Image id="g_15" width="201" height="103" x="653" y="134" source="normal_png" scaleX="1" scaleY="1"/>
+			</e:Group>
+		</e:Group>
+	</e:Group>
+</e:Skin>

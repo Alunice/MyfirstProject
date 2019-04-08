@@ -1,0 +1,375 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,milk_png,mainFram_bg_1_png,mainFram_bg_2_png,mainFram_bg_3_png,mainFram_bg_4_png,normal_png,black_ground_png,strawberry_1_png,strawberry_2_png,strawberry_3_png,strawberry_4_png,strawberry_5_png,strawberry_seed_png,deep_drought_png,drought_png,grass_ground_png,corn_1_png,corn_2_png,corn_3_png,corn_4_png,corn_5_png,corn_seed_png,whiteRadish_1_png,whiteRadish_2_png,whiteRadish_3_png,whiteRadish_4_png,whiteRadish_seed_png,redRadish_1_png,redRadish_2_png,redRadish_3_png,redRadish_4_png,redRadish_seed_png,potato_1_png,potato_2_png,potato_3_png,potato_4_png,potato_5_png,potato_seed_png,select_png,bigCash_png,bigCoin_png,ZooStarFg_png,ZooStarBg_png,scroll_arrow_right_png,scroll_arrow_left_png,scroll_arrow_right_disable_png,scroll_arrow_left_disable_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Farm/background/milk.png",
+			"type": "image",
+			"name": "milk_png"
+		},
+		{
+			"url": "assets/Farm/background/mainFram_bg_1.png",
+			"type": "image",
+			"name": "mainFram_bg_1_png"
+		},
+		{
+			"url": "assets/Farm/background/mainFram_bg_2.png",
+			"type": "image",
+			"name": "mainFram_bg_2_png"
+		},
+		{
+			"url": "assets/Farm/background/mainFram_bg_3.png",
+			"type": "image",
+			"name": "mainFram_bg_3_png"
+		},
+		{
+			"url": "assets/Farm/background/mainFram_bg_4.png",
+			"type": "image",
+			"name": "mainFram_bg_4_png"
+		},
+		{
+			"url": "assets/Farm/ground/normal.png",
+			"type": "image",
+			"name": "normal_png"
+		},
+		{
+			"url": "assets/Farm/ground/black_ground.png",
+			"type": "image",
+			"name": "black_ground_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_1.png",
+			"type": "image",
+			"name": "strawberry_1_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_2.png",
+			"type": "image",
+			"name": "strawberry_2_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_3.png",
+			"type": "image",
+			"name": "strawberry_3_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_4.png",
+			"type": "image",
+			"name": "strawberry_4_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_5.png",
+			"type": "image",
+			"name": "strawberry_5_png"
+		},
+		{
+			"url": "assets/Farm/plant/strawberry/strawberry_seed.png",
+			"type": "image",
+			"name": "strawberry_seed_png"
+		},
+		{
+			"name": "deep_drought_png",
+			"type": "image",
+			"url": "assets/Farm/ground/deep_drought.png"
+		},
+		{
+			"name": "drought_png",
+			"type": "image",
+			"url": "assets/Farm/ground/drought.png"
+		},
+		{
+			"name": "grass_ground_png",
+			"type": "image",
+			"url": "assets/Farm/ground/grass_ground.png"
+		},
+		{
+			"name": "corn_1_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_1.png"
+		},
+		{
+			"name": "corn_2_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_2.png"
+		},
+		{
+			"name": "corn_3_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_3.png"
+		},
+		{
+			"name": "corn_4_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_4.png"
+		},
+		{
+			"name": "corn_5_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_5.png"
+		},
+		{
+			"name": "corn_seed_png",
+			"type": "image",
+			"url": "assets/Farm/plant/corn/corn_seed.png"
+		},
+		{
+			"name": "whiteRadish_1_png",
+			"type": "image",
+			"url": "assets/Farm/plant/whiteRadish/whiteRadish_1.png"
+		},
+		{
+			"name": "whiteRadish_2_png",
+			"type": "image",
+			"url": "assets/Farm/plant/whiteRadish/whiteRadish_2.png"
+		},
+		{
+			"name": "whiteRadish_3_png",
+			"type": "image",
+			"url": "assets/Farm/plant/whiteRadish/whiteRadish_3.png"
+		},
+		{
+			"name": "whiteRadish_4_png",
+			"type": "image",
+			"url": "assets/Farm/plant/whiteRadish/whiteRadish_4.png"
+		},
+		{
+			"name": "whiteRadish_seed_png",
+			"type": "image",
+			"url": "assets/Farm/plant/whiteRadish/whiteRadish_seed.png"
+		},
+		{
+			"name": "redRadish_1_png",
+			"type": "image",
+			"url": "assets/Farm/plant/redRadish/redRadish_1.png"
+		},
+		{
+			"name": "redRadish_2_png",
+			"type": "image",
+			"url": "assets/Farm/plant/redRadish/redRadish_2.png"
+		},
+		{
+			"name": "redRadish_3_png",
+			"type": "image",
+			"url": "assets/Farm/plant/redRadish/redRadish_3.png"
+		},
+		{
+			"name": "redRadish_4_png",
+			"type": "image",
+			"url": "assets/Farm/plant/redRadish/redRadish_4.png"
+		},
+		{
+			"name": "redRadish_seed_png",
+			"type": "image",
+			"url": "assets/Farm/plant/redRadish/redRadish_seed.png"
+		},
+		{
+			"name": "potato_1_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_1.png"
+		},
+		{
+			"name": "potato_2_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_2.png"
+		},
+		{
+			"name": "potato_3_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_3.png"
+		},
+		{
+			"name": "potato_4_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_4.png"
+		},
+		{
+			"name": "potato_5_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_5.png"
+		},
+		{
+			"name": "potato_seed_png",
+			"type": "image",
+			"url": "assets/Farm/plant/potato/potato_seed.png"
+		},
+		{
+			"name": "select_png",
+			"type": "image",
+			"url": "assets/Farm/icon/select.png"
+		},
+		{
+			"name": "bigCash_png",
+			"type": "image",
+			"url": "assets/Farm/icon/bigCash.png"
+		},
+		{
+			"name": "bigCoin_png",
+			"type": "image",
+			"url": "assets/Farm/icon/bigCoin.png"
+		},
+		{
+			"name": "ZooStarFg_png",
+			"type": "image",
+			"url": "assets/Farm/icon/ZooStarFg.png"
+		},
+		{
+			"name": "ZooStarBg_png",
+			"type": "image",
+			"url": "assets/Farm/icon/ZooStarBg.png"
+		},
+		{
+			"name": "scroll_arrow_right_png",
+			"type": "image",
+			"url": "assets/Farm/icon/scroll_arrow_right.png"
+		},
+		{
+			"name": "scroll_arrow_left_png",
+			"type": "image",
+			"url": "assets/Farm/icon/scroll_arrow_left.png"
+		},
+		{
+			"name": "scroll_arrow_right_disable_png",
+			"type": "image",
+			"url": "assets/Farm/icon/scroll_arrow_right_disable.png"
+		},
+		{
+			"name": "scroll_arrow_left_disable_png",
+			"type": "image",
+			"url": "assets/Farm/icon/scroll_arrow_left_disable.png"
+		}
+	]
+}

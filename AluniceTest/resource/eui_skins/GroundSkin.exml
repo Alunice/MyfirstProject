@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GroundSkin" width="201" height="103" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group height="103" y="0" width="201" x="0">
+		<e:Image id="groundImg" width="201" height="103" x="0" y="0" source="normal_png"/>
+		<e:Group id="groupPlant_" width="0" height="0" x="0" y="0">
+			<e:Image id="plantImg" width="120" height="60" source="strawberry_5_png" scaleX="1" scaleY="1" verticalCenter="45" horizontalCenter="101"/>
+			<e:Label id="NextCountLeftTime_" text="下一阶段：" y="75" scaleX="1" scaleY="1" size="16" bold="true" textColor="0xed0b3c" left="14" horizontalCenter="54"/>
+			<e:Label id="leftTime_" text="成熟：" y="6" scaleX="1" scaleY="1" size="16" bold="true" left="14" width="48" horizontalCenter="38" textColor="0xbe0bea"/>
+		</e:Group>
+	</e:Group>
+</e:Skin>

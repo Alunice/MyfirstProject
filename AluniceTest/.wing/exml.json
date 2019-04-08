@@ -1,0 +1,18 @@
+{
+    "168f05d7425": {
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1
+    },
+    "168f05d7426": {
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "16904f53300": {
+        "path": "../resource/eui_skins/groundSkin.ts",
+        "class": "groundSkin",
+        "parentPath": ""
+    }
+}
