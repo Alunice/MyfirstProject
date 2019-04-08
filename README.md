@@ -1,6 +1,2 @@
 # MyfirstProject
-just a test
-let me see 
-``` java
-import java.*
-class myproject
+一个简单农场小游戏的实现～还有一些功能未完成。
